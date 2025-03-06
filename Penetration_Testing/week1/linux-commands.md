@@ -32,11 +32,11 @@ ls -lah ~ → Lists all files in the home directory with permissions.
 # Screenshot
 Here is a screenshot of the command output:
 
-![Sorting Users - Command Output](../screenshots/Linux_Commands_1.png)
+![Sorting Users - Command Output](screenshots/linux-commands-1.png)
 
-![Filtering Users - Command Output](../screenshots/Linux_Commands_2.png)
+![Filtering Users - Command Output](screenshots/linux-commands-2.png)
 
-![Listing Files - Command Output](../screenshots/Linux_Commands_3.png)
+![Listing Files - Command Output](screenshots/linux-commands-3.png)
 
 
 # Key Learnings
